@@ -1,4 +1,6 @@
 # kishlay_raj10688
+
+<img width="1829" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4b831ac-5409-4cef-8bb8-cd0fa66915d6" />
 "Loop optimization Demo : Convert second to hours , minutes, and seconds using for and while loops, with iteration coparison."
 # Loop Optimization Demo
 
